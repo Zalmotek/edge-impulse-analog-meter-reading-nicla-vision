@@ -3,7 +3,7 @@
 
 ![NiclaVision headline photo](photo.jpg)
 
-<table align="center">
+<table align="center", width="100%">
 	<tr>
 		<td><p>Vertical</p></td>
 		<td><p>Hardware Target</p></td>
