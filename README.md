@@ -2,11 +2,27 @@
 # Analog Meter Reading with Nicla Vision
 
 ![NiclaVision headline photo](photo.jpg)
-<div align="center">
-Vertical | Hardware Target | Manufacturer | Type | Feature used:
-----------|-------|-------------|-----------------|-
-Smart Building | Nicla Vision|Arduino|Computer Vision|FOMO
-</div>
+
+<table align="center">
+	<tr>
+		<td><p>Vertical</p></td>
+		<td><p>Hardware Target</p></td>
+		<td><p>Manufacturer</p></td>
+		<td><p>Type</p></td>
+		<td><p>Feature used</p></td>
+	</tr>
+	<tr>
+		<td><p>Smart Building </p></td>
+		<td><p>Nicla Vision</p></td>
+		<td><p>Arduino</p></td>
+		<td><p>Computer Vision</p></td>
+		<td><p>FOMO</p></td>
+	</tr>
+		
+
+</table>
+
+
 ## The challenge
 
 Analog gauges are often used in industrial settings to measure pressure, temperature, and flow, among other process parameters. In many cases, analog gauges are preferred over digital ones because most analog gauges mounted on old machinery cannot be easily replaced or it would be too costly to do so. However, they have a number of drawbacks, such as requiring visual inspection by a human operator to visually inspect them and the difficulty of integrating them into digital systems to automate tasks.
