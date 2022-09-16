@@ -1,6 +1,8 @@
 ﻿
 # Analog Meter Reading with Nicla Vision
 
+![NiclaVision headline photo](photo.jpg)
+
 Vertical | Hardware Target | Manufacturer | Type | Feature used:
 ----------|-------|-------------|-----------------|-
 Smart Building | Nicla Vision|Arduino|Computer Vision|FOMO
